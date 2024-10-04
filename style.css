@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    background-color:cornflowerblue;
+    margin: auto;
+    padding: 5px;
+    border: 10px;
+    width: auto;
+    height: auto;
+
+}
